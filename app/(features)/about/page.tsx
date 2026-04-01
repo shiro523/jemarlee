@@ -6,7 +6,7 @@ export default function About(){
   return(
   <div className="flex flex-col gap-10 p-5">
     <div className="flex p-5 gap-50 justify-center items-center">
-            <Image src="/leepict2.jpg" alt="myphoto" width={300} height={200} />
+            <Image src="/Leepict2.jpg" alt="myphoto" width={300} height={200} />
             <div className="p-5 text-center">
               <h1 className="text-3xl font-bold mt-4">Welcome to the Homepage</h1>
             <p className="mt-2 text-gray-600">This is the homepage of our Next.js application.</p>

@@ -11,7 +11,7 @@ export default function Aboutme() {
             <Link href="/about">Learn More</Link>
         </button>
     </div>
-        <Image src="/leepict.jpg" alt="About Me" width={200} height={200}  />   
+        <Image src="/Leepict.jpg" alt="About Me" width={200} height={200}  />   
     </div>
     );
 }
